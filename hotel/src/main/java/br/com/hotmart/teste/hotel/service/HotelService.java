@@ -1,6 +1,5 @@
 package br.com.hotmart.teste.hotel.service;
 
-import java.lang.management.GarbageCollectorMXBean;
 import java.util.ArrayList;
 import java.util.HashMap;
 
